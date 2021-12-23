@@ -1,7 +1,6 @@
 import 'package:exam_guide_upsc/Exam%20Details/eligibility.dart';
 import 'package:exam_guide_upsc/Exam%20Details/exam_pattern.dart';
 import 'package:exam_guide_upsc/Exam%20Details/services_offered.dart';
-
 import 'package:exam_guide_upsc/syllabus/mains.dart';
 import 'package:exam_guide_upsc/syllabus/prelims.dart';
 import 'package:flutter/material.dart';
