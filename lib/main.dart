@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             ),
           ),
         ),
-        body: homePage(),
+        body: const homePage(),
       ),
     );
   }
