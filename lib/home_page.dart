@@ -4,7 +4,9 @@ import 'package:exam_guide_upsc/Exam%20Details/services_offered.dart';
 import 'package:exam_guide_upsc/syllabus/mains.dart';
 import 'package:exam_guide_upsc/syllabus/prelims.dart';
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 
+import 'ad_helper.dart';
 import 'content.dart';
 
 class homePage extends StatefulWidget {
